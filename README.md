@@ -90,23 +90,9 @@ Attendance Management System using Face Recognition/
 
 ---
 
-## Contributing
-Contributions are welcome! If you have suggestions for improvements or additional features, feel free to fork the repository and submit a pull request.
-
----
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## Acknowledgments
 Special thanks to the following:
 - **OpenCV** for face detection and recognition functionalities.
 - **Tkinter** for GUI development.
 - **NumPy** and **Pandas** for data manipulation and analysis.
 - **MySQL** for database management.
-
----
-
-For any questions or issues, feel free to contact **[your email]**.
